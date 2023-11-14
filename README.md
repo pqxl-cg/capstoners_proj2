@@ -1,2 +1,0 @@
-# capstoners
-capstone proj2 
